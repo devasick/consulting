@@ -1,10 +1,10 @@
-# Steuerkanzlei Schneider - Tax Consultant Website
+# Vivek Padghan Consulting - Website
 
-A modern, mobile-first website for a German tax consultant (Steuerberater) based in Munich.
+A modern, mobile-first website for Vivek Padghan Consulting based in Munich.
 
 ## Overview
 
-Professional website for Steuerkanzlei Schneider featuring:
+Professional website for Vivek Padghan Consulting featuring:
 - Clean, trustworthy design with German corporate aesthetics
 - Mobile-first responsive layout
 - Multi-language support (German/English)

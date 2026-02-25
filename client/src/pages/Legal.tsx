@@ -9,19 +9,19 @@ export function Impressum() {
         <div className="prose prose-lg prose-slate text-muted-foreground max-w-none">
           <p>Angaben gemäß § 5 TMG:</p>
           
-          <h3 className="text-foreground font-bold mt-8 mb-4">Kanzlei Schneider</h3>
+          <h3 className="text-foreground font-bold mt-8 mb-4">Vivek Padghan Consulting</h3>
           <p>
             Maximilianstraße 12<br />
             80539 München
           </p>
 
           <h3 className="text-foreground font-bold mt-8 mb-4">Vertreten durch:</h3>
-          <p>Prof. Dr. jur. Hans Schneider (Steuerberater)</p>
+          <p>Vivek Padghan (Consultant)</p>
 
           <h3 className="text-foreground font-bold mt-8 mb-4">Kontakt:</h3>
           <p>
             Telefon: +49 (0) 89 123 456 78<br />
-            E-Mail: info@kanzlei-schneider.de
+            E-Mail: info@vivek-padghan.de
           </p>
 
           <h3 className="text-foreground font-bold mt-8 mb-4">Umsatzsteuer-ID:</h3>

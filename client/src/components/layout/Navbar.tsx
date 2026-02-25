@@ -43,8 +43,8 @@ export function Navbar() {
               <Building2 className="w-5 h-5" />
             </div>
             <div className="flex flex-col">
-              <span className="font-display font-bold text-lg leading-none text-foreground">Kanzlei Schneider</span>
-              <span className="text-xs text-muted-foreground font-medium uppercase tracking-wider">Steuerberater</span>
+              <span className="font-display font-bold text-lg leading-none text-foreground">Vivek Padghan Consulting</span>
+              <span className="text-xs text-muted-foreground font-medium uppercase tracking-wider">Consulting & Beratung</span>
             </div>
           </Link>
 

@@ -16,12 +16,12 @@ export function Footer() {
                 <Building2 className="w-5 h-5 text-white" />
               </div>
               <div className="flex flex-col">
-                <span className="font-display font-bold text-lg leading-none">Kanzlei Schneider</span>
-                <span className="text-xs text-white/60 font-medium uppercase tracking-wider">Steuerberater</span>
+                <span className="font-display font-bold text-lg leading-none">Vivek Padghan Consulting</span>
+                <span className="text-xs text-white/60 font-medium uppercase tracking-wider">Consulting & Beratung</span>
               </div>
             </div>
             <p className="text-white/60 max-w-sm mb-6 leading-relaxed">
-              Kompetente und persönliche Steuerberatung für Unternehmen und Privatpersonen im Herzen von München.
+              Kompetente und persönliche Beratung für Unternehmen und Privatpersonen im Herzen von München.
             </p>
           </div>
 
@@ -38,7 +38,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary-foreground shrink-0" />
-                <span>info@kanzlei-schneider.de</span>
+                <span>info@vivek-padghan.de</span>
               </li>
             </ul>
           </div>
@@ -61,7 +61,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-white/40">
-          <p>© {new Date().getFullYear()} Kanzlei Schneider. {t("footer.rights")}</p>
+          <p>© {new Date().getFullYear()} Vivek Padghan Consulting. {t("footer.rights")}</p>
         </div>
       </div>
     </footer>

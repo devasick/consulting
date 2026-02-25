@@ -18,7 +18,7 @@ export default function Contact() {
             
             {/* Contact Info */}
             <div className="bg-card p-8 rounded-3xl shadow-lg border border-border">
-              <h3 className="font-display font-bold text-2xl mb-8">Kanzlei Schneider</h3>
+              <h3 className="font-display font-bold text-2xl mb-8">Vivek Padghan Consulting</h3>
               
               <ul className="space-y-6">
                 <li className="flex items-start gap-4">
@@ -47,7 +47,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-bold text-foreground">E-Mail</p>
-                    <p className="text-muted-foreground mt-1">info@kanzlei-schneider.de</p>
+                    <p className="text-muted-foreground mt-1">info@vivek-padghan.de</p>
                   </div>
                 </li>
 

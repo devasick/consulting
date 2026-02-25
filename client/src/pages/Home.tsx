@@ -146,7 +146,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-3xl md:text-4xl font-bold font-display mb-6">Warum Kanzlei Schneider?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold font-display mb-6">Warum Vivek Padghan Consulting?</h2>
               <div className="space-y-8 mt-10">
                 {[
                   { title: "Persönliche Betreuung", desc: "Bei uns sind Sie keine Nummer. Sie haben einen festen Ansprechpartner, der Ihr Unternehmen kennt." },
@@ -174,7 +174,7 @@ export default function Home() {
                   {[...Array(5)].map((_, i) => <Star key={i} className="w-6 h-6 fill-current" />)}
                 </div>
                 <blockquote className="text-xl md:text-2xl font-medium leading-relaxed text-foreground mb-8">
-                  "Die Kanzlei Schneider hat uns bei der Existenzgründung perfekt begleitet. Die digitalen Prozesse sparen uns wöchentlich mehrere Stunden Zeit."
+                  "Vivek Padghan Consulting hat uns bei der Existenzgründung perfekt begleitet. Die digitalen Prozesse sparen uns wöchentlich mehrere Stunden Zeit."
                 </blockquote>
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center text-gray-500 font-bold text-xl">
