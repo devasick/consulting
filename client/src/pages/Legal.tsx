@@ -11,8 +11,8 @@ export function Impressum() {
           
           <h3 className="text-foreground font-bold mt-8 mb-4">Vivek Padghan Consulting</h3>
           <p>
-            Maximilianstraße 12<br />
-            80539 München
+            Knoopstraße 40<br />
+            21074 Hamburg
           </p>
 
           <h3 className="text-foreground font-bold mt-8 mb-4">Vertreten durch:</h3>
@@ -20,7 +20,7 @@ export function Impressum() {
 
           <h3 className="text-foreground font-bold mt-8 mb-4">Kontakt:</h3>
           <p>
-            Telefon: +49 (0) 89 123 456 78<br />
+            Telefon: +49 (0) 174 282 30 31<br />
             E-Mail: info@vivek-padghan.de
           </p>
 
@@ -33,9 +33,9 @@ export function Impressum() {
           </p>
           <p>
             Zuständige Kammer:<br />
-            Steuerberaterkammer München<br />
+            Steuerberaterkammer Hamburg<br />
             Nederlinger Straße 9<br />
-            80638 München
+            80638 Hamburg
           </p>
         </div>
       </div>

@@ -1,6 +1,6 @@
 # Vivek Padghan Consulting - Website
 
-A modern, mobile-first website for Vivek Padghan Consulting based in Munich.
+A modern, mobile-first website for Vivek Padghan Consulting based in Hamburg.
 
 ## Overview
 

@@ -21,7 +21,7 @@ export function Footer() {
               </div>
             </div>
             <p className="text-white/60 max-w-sm mb-6 leading-relaxed">
-              Kompetente und persönliche Beratung für Unternehmen und Privatpersonen im Herzen von München.
+              Kompetente und persönliche Beratung für Unternehmen und Privatpersonen im Herzen von Hamburg.
             </p>
           </div>
 
@@ -30,11 +30,11 @@ export function Footer() {
             <ul className="space-y-4 text-white/60">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary-foreground shrink-0 mt-0.5" />
-                <span>Maximilianstraße 12<br/>80539 München</span>
+                <span>Knoopstraße 40<br/>21074 Hamburg</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary-foreground shrink-0" />
-                <span>+49 (0) 89 123 456 78</span>
+                <span>+49 (0) 174 282 30 31</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-primary-foreground shrink-0" />

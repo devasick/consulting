@@ -27,7 +27,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-bold text-foreground">Adresse</p>
-                    <p className="text-muted-foreground mt-1">Maximilianstraße 12<br/>80539 München</p>
+                    <p className="text-muted-foreground mt-1">Knoopstraße 40<br/>21074 Hamburg</p>
                   </div>
                 </li>
                 
@@ -37,7 +37,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="font-bold text-foreground">Telefon</p>
-                    <p className="text-muted-foreground mt-1">+49 (0) 89 123 456 78</p>
+                    <p className="text-muted-foreground mt-1">+49 (0) 174 282 30 31</p>
                   </div>
                 </li>
 

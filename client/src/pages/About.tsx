@@ -23,7 +23,7 @@ export default function About() {
             
             <div className="space-y-6 text-lg text-muted-foreground leading-relaxed mb-10">
               <p>
-                Hinter jeder Bilanz und jeder Steuererklärung stehen Menschen, Unternehmen und Lebenswerke. Als moderne Steuerkanzlei in München kombinieren wir fachliche Exzellenz mit persönlicher Nähe.
+                Hinter jeder Bilanz und jeder Steuererklärung stehen Menschen, Unternehmen und Lebenswerke. Als moderne Steuerkanzlei in Hamburg kombinieren wir fachliche Exzellenz mit persönlicher Nähe.
               </p>
               <p>
                 Unser Ziel ist es nicht nur, Ihre steuerlichen Pflichten zu erfüllen, sondern Ihre wirtschaftliche Zukunft aktiv und positiv zu gestalten. Wir setzen auf digitale Prozesse, transparente Kommunikation und proaktive Beratung.
