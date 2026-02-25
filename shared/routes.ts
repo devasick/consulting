@@ -1,5 +1,4 @@
 import { z } from 'zod';
-import { insertContactSchema, contactMessages } from './schema';
 
 export const errorSchemas = {
   validation: z.object({
@@ -11,19 +10,7 @@ export const errorSchemas = {
   }),
 };
 
-export const api = {
-  contact: {
-    create: {
-      method: 'POST' as const,
-      path: '/api/contact' as const,
-      input: insertContactSchema,
-      responses: {
-        201: z.custom<typeof contactMessages.$inferSelect>(),
-        400: errorSchemas.validation,
-      },
-    },
-  },
-};
+export const api = {};
 
 export function buildUrl(path: string, params?: Record<string, string | number>): string {
   let url = path;
@@ -36,6 +23,3 @@ export function buildUrl(path: string, params?: Record<string, string | number>)
   }
   return url;
 }
-
-export type ContactInput = z.infer<typeof api.contact.create.input>;
-export type ContactResponse = z.infer<typeof api.contact.create.responses[201]>;
